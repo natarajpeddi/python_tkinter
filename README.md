@@ -2,6 +2,7 @@
 tkinter lib related projects
 
 ------------------------ news_gui.py ------------------------ 
+
 navigate to https://newsapi.org/ web site
 
 create an account
